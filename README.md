@@ -31,4 +31,10 @@ Check out the network operation in the video: https://www.youtube.com/watch?v=8Q
 
 ## 📄 Technical Documentation
 The complete details (portuguese language version) with cable calculations, ABNT standards (NBR 14565) and schedule are available in the 
-[Clique aqui para baixar/visualizar a Documentação em PDF](https://github.com/JGMS007/network-infrastructure-project/raw/main/projeto-infraestrutura-redes.pdf)
+<p align="center">
+  <a href="https://github.com/JGMS007/network-infrastructure-project/raw/main/projeto-infraestrutura-redes.pdf" target="_blank">
+    <button style="background-color: #0d1117; color: #58a6ff; border: 1px solid #30363d; padding: 10px 20px; border-radius: 6px; font-weight: bold; cursor: pointer;">
+      📄 Download (PDF)
+    </button>
+  </a>
+</p>
