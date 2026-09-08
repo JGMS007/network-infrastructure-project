@@ -31,4 +31,4 @@ Check out the network operation in the video: https://www.youtube.com/watch?v=8Q
 
 ## 📄 Technical Documentation
 The complete details (portuguese language version) with cable calculations, ABNT standards (NBR 14565) and schedule are available in the 
-[![PDF](https://img.shields.io/badge/Documentação-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](Projeto%20de%20Infraestrutura%20de%20Redes.pdf)
+[![PDF](https://img.shields.io/badge/Documentação-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](projeto-infraestrutura-redes.pdf)
