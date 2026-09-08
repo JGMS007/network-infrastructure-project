@@ -31,10 +31,6 @@ Check out the network operation in the video: https://www.youtube.com/watch?v=8Q
 
 ## 📄 Technical Documentation
 The complete details (portuguese language version) with cable calculations, ABNT standards (NBR 14565) and schedule are available in the 
-<p align="center">
-  <a href="https://github.com/JGMS007/network-infrastructure-project/raw/main/projeto-infraestrutura-redes.pdf" target="_blank">
-    <button style="background-color: #0d1117; color: #58a6ff; border: 1px solid #30363d; padding: 10px 20px; border-radius: 6px; font-weight: bold; cursor: pointer;">
-      📄 Download (PDF)
-    </button>
-  </a>
-</p>
+<a href="https://github.com/JGMS007/network-infrastructure-project/raw/main/projeto-infraestrutura-redes.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/PDF-Baixar%20Relat%C3%B3rio%20T%C3%A9cnico-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download (PDF)">
+</a>
